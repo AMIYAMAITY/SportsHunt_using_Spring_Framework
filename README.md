@@ -10,6 +10,8 @@ information such as teams, events etc. This system will be developed on the Java
 MySQL as data storage for web application. Both sides (Tournament organizer(club), another club,
 and sponsors) can communicate with in real time communicate with chat application.
 
+![index page](https://github.com/AMIYAMAITY/SportsHunt_using_Spring_Framework/blob/master/1.jpg)
+
 ## How to run this project on your local machine
 
     ### Step-1:
